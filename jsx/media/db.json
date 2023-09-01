@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Homer Labadie",
+      "id": 2
+    },
+    {
+      "name": "Carrie Anderson",
+      "id": 3
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
