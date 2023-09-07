@@ -5,14 +5,47 @@
       "name": "Myra"
     },
     {
-      "name": "Homer Labadie",
+      "name": "Gilbert Crist",
+      "id": 2
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Intelligent Plastic Shoes",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "title": "Oriental Concrete Fish",
+      "id": 2
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6496783660220416",
+      "id": 1
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=996333905248256",
       "id": 2
     },
     {
-      "name": "Carrie Anderson",
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4667633083351040",
       "id": 3
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6388160219054080",
+      "id": 4
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=604245896200192",
+      "id": 5
     }
-  ],
-  "albums": [],
-  "photos": []
+  ]
 }

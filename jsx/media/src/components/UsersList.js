@@ -33,8 +33,6 @@ function UsersList() {
     } else {
         content = data.map((user) => {
             return <UsersListItem key={user.id} user={user} />;
-
-     
         });
     }
 
